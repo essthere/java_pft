@@ -1,4 +1,6 @@
-public class HelloWold{
+package ru.stqa.pft.sandbox;
+
+public class HelloWold {
 
 	public static void main (String[] args){
 
